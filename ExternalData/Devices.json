@@ -1,0 +1,37 @@
+[
+  {
+    "devicename": "Computer1",
+    "username": "damien.vanrobaeys",
+    "manufacturer": "lenovo"
+  },
+  {
+    "devicename": "Computer2",
+    "username": "luca.vanrobaeys",
+    "manufacturer": "lenovo"
+  },
+  {
+    "devicename": "Computer3",
+    "username": "walter.white",
+    "manufacturer": "dell"
+  },
+  {
+    "devicename": "Computer4",
+    "username": "jessie.pinkman",
+    "manufacturer": "lenovo"
+  },  
+  {
+    "devicename": "Computer5",
+    "username": "gustavo.fringe",
+    "manufacturer": "hp"
+  },   
+  {
+    "devicename": "Computer6",
+    "username": "tony.soprano",
+    "manufacturer": "dell"
+  },   
+  {
+    "devicename": "Computer7",
+    "username": "jax.teller",
+    "manufacturer": "lenovo"
+  }  
+]

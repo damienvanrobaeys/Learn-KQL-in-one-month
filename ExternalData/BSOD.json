@@ -1,0 +1,30 @@
+[
+  {
+    "devicename": "Computer1",
+    "BSODCount": "4",
+    "BSODCode": "0x000000A0",
+    "Model": "ThinkPad T480s",
+    "BIOSVersion": "1.49"
+  },
+  {
+    "devicename": "Computer2",
+    "BSODCount": "1",
+    "BSODCode": "0x00000116",
+    "Model": "ThinkPad T14s",
+    "BIOSVersion": "1.24"
+  },
+  {
+    "devicename": "Computer3",
+    "BSODCount": "15",
+    "BSODCode": "0x000000A0",
+    "Model": "ThinkPad T14s Gen2",
+    "BIOSVersion": "1.50"
+  },
+  {
+    "devicename": "Computer4",
+    "BSODCount": "0",
+    "BSODCode": "0x00000154",
+    "Model": "ThinkPad T14s Gen3",
+    "BIOSVersion": "1.50"
+  },  
+]
