@@ -1,1 +1,1 @@
-# Learn-KQL-in-one-month
+# Learn KQL in one month
